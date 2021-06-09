@@ -1,0 +1,22 @@
+name: map_chart_jp
+description: Map chart of Japan.
+version: 0.0.1
+# author: fastriver_org
+homepage: https://github.com/organic-nailer/map_chart_jp
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  svg_path_parser: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+   assets:
+     - assets/pref-paths.json
