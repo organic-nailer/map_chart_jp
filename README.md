@@ -1,5 +1,7 @@
 # map_chart_jp
 
+[![pub package](https://img.shields.io/pub/v/map_chart_jp.svg)](https://pub.dev/packages/map_chart_jp)
+
 A map chart of Japan.
 
 ## Getting Started
